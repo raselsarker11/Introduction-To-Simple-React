@@ -1,0 +1,63 @@
+[
+    {
+      "ID": 1,
+      "name": "Hydro Flask Standard Mouth",
+      "brand": "Hydro Flask",
+      "price": 35.95,
+      "stock": 120,
+      "ratings": 4.8,
+      "ratingsCount": 1500,
+      "image": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=600.jpg",
+      "shipping": "Free",
+      "quantity": 1
+    },
+    {
+      "ID": 2,
+      "name": "Nalgene Wide Mouth",
+      "brand": "Nalgene",
+      "price": 11.99,
+      "stock": 300,
+      "ratings": 4.7,
+      "ratingsCount": 2200,
+      "image": "https://example.com/images/nalgene-wide-mouth.jpg",
+      "shipping": "Free",
+      "quantity": 1
+    },
+    {
+      "ID": 3,
+      "name": "CamelBak Chute Mag",
+      "brand": "CamelBak",
+      "price": 14.99,
+      "stock": 200,
+      "ratings": 4.5,
+      "ratingsCount": 1800,
+      "image": "https://example.com/images/camelbak-chute-mag.jpg",
+      "shipping": "Standard",
+      "quantity": 1
+    },
+    {
+      "ID": 4,
+      "name": "S'well Stainless Steel",
+      "brand": "S'well",
+      "price": 25.00,
+      "stock": 80,
+      "ratings": 4.6,
+      "ratingsCount": 900,
+      "image": "https://example.com/images/swell-stainless-steel.jpg",
+      "shipping": "Standard",
+      "quantity": 1
+    },
+    {
+      "ID": 5,
+      "name": "Contigo Autoseal",
+      "brand": "Contigo",
+      "price": 19.99,
+      "stock": 150,
+      "ratings": 4.4,
+      "ratingsCount": 1300,
+      "image": "https://example.com/images/contigo-autoseal.jpg",
+      "shipping": "Free",
+      "quantity": 1
+    }
+  ]
+  

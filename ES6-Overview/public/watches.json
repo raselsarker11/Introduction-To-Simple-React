@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 8",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 5",
+      "price": 279
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Versa 3",
+      "price": 229
+    },
+    {
+      "id": 4,
+      "name": "Garmin Venu 2",
+      "price": 349
+    },
+    {
+      "id": 5,
+      "name": "Amazfit GTS 3",
+      "price": 179
+    },
+    {
+      "id": 6,
+      "name": "Samphoni 2",
+      "price": 1090
+    }
+  ]
+  
